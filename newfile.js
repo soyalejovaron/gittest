@@ -1,2 +1,2 @@
 console.log("HM");
-alert("HW");
+let hola = "hola a todos";
